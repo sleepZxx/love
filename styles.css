@@ -17,7 +17,7 @@ header {
   body {
       display: flex;
       flex-direction: column;
-     font-family: Arial;
+      font-family: Arial;
      margin: 0;
   background-image: linear-gradient(rgba(0,0,0,0.47), rgba(0,0,0,0.47)),
                     url(https://coralplaza.com.br/wp-content/uploads/2020/04/298663-veja-os-4-melhores-lugares-para-assistir-o-por-do-sol-na-praia-no-brasil.jpg);
@@ -58,7 +58,7 @@ main h2 b1 {
   position: absolute;
   left: 3%;
   right: 3%;
-  top: 17%;
+  top: 10%;
   font-family: Sacramento ;
   color: darkred;
 }
