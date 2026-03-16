@@ -19,7 +19,7 @@ header {
       flex-direction: column;
       font-family: Arial;
      margin: 0;
-  background-image: linear-gradient(rgba(0,0,0,0.47), rgba(0,0,0,0.47)),
+  background: linear-gradient(rgba(0,0,0,0.47), rgba(0,0,0,0.47)),
                     url(https://coralplaza.com.br/wp-content/uploads/2020/04/298663-veja-os-4-melhores-lugares-para-assistir-o-por-do-sol-na-praia-no-brasil.jpg);
   background-size: cover;
   background-position: center;
@@ -31,7 +31,6 @@ footer {
   position : fixed;
   bottom : 0;
   color: white;
-  padding: 3px;
   text-align: center;
 }
 footer p:hover {
