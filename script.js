@@ -7,6 +7,7 @@ const styles = `
     }
 
     body {
+        text-align: center;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         background-image: linear-gradient(rgba(0,0,0,0.47), rgba(0,0,0,0.47))
                           url('https://coralplaza.com.br/wp-content/uploads/2020/04/298663-veja-os-4-melhores-lugares-para-assistir-o-por-do-sol-na-praia-no-brasil.jpg');
