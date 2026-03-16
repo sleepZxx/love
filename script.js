@@ -15,7 +15,7 @@ const styles = `
         min-height: 100vh;
     }
         
-    h1, h2, h3 {
+    h1 {
         color: #ffffff;
         margin-bottom: 5px;
         animation: slideDown 0.6s ease-out;
@@ -48,7 +48,7 @@ const styles = `
     }
 
     input, select {
-        border: 2px solid #ddd;
+        border: 2px solid #000000;
         background: white;
     }
 
