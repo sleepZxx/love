@@ -21,10 +21,11 @@ header {
      margin: 0;
   background-image: linear-gradient(rgba(0,0,0,0.47), rgba(0,0,0,0.47)),
                     url(https://coralplaza.com.br/wp-content/uploads/2020/04/298663-veja-os-4-melhores-lugares-para-assistir-o-por-do-sol-na-praia-no-brasil.jpg);
-  background-size: cover;
+  background-size: fill;
   background-position: center;
 }
 footer {
+  background-color: #333;
   font-size: large;
   width: 100%;
   position : fixed;
