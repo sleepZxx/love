@@ -16,6 +16,7 @@ const styles = `
     }
         
     h1 {
+       text-align: center;
         color: #ffffff;
         margin-bottom: 5px;
         animation: slideDown 0.6s ease-out;
