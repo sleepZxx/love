@@ -5,25 +5,15 @@ const styles = `
         padding: 0;
         box-sizing: border-box;
     }
-
-    body {
-        text-align: center;
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        background-image: linear-gradient(rgba(0,0,0,0.47), rgba(0,0,0,0.47))
-                          url('https://coralplaza.com.br/wp-content/uploads/2020/04/298663-veja-os-4-melhores-lugares-para-assistir-o-por-do-sol-na-praia-no-brasil.jpg');
-        background-size: cover;
-        background-position: center;
-        min-height: 100vh;
-    }
         
-    h1, h2, h3 {
+    h1 {
        text-align: center;
         color: #ffffff;
         margin-bottom: 5px;
         animation: slideDown 0.6s ease-out;
     }
         
-    p, span {
+    footer p {
         animation: slideDown 0.6s ease-out;
         color: #ffffff;
         line-height: 1.6;
