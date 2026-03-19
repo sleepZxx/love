@@ -64,7 +64,7 @@ nav a:hover {
   height: 100vh;
 }
 #text1 {
-  font-size: 40px;
+  font-size: 60px;
   text-align: center;
   position: absolute;
   left: 3%;
@@ -74,17 +74,17 @@ nav a:hover {
   color: rgb(100, 0, 0);
 }
 #text2 {
-  font-size: 40px;
+  font-size: 60px;
   text-align: center;
   position: absolute;
   left: 3%;
   right: 3%;
-  top: 20%;
+  top: 18%;
   font-family: Sacramento, negrito; 
   color: rgb(100, 0, 0);
 }
 #text3 {
-  font-size: 40px;
+  font-size: 60px;
   left: 3%;
   right: 3%;
   text-align: center;
